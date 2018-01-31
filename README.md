@@ -1,2 +1,2 @@
 # FirstGit
-First git example
+First change made to this file
